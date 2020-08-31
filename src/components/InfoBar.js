@@ -7,7 +7,7 @@ import '../style/InfoBar.css';
 
 function InfoBar( { room } ) {
     // eslint-disable-xet-line
-    let invite = 'localhost:3000'
+    let invite = 'https://fora-chat-app.herokuapp.com'
 
     return(
         <div className='chat-header clearfix'>
