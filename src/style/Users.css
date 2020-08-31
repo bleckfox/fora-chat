@@ -1,0 +1,23 @@
+.people-list {
+    width: 260px;
+    float: left;
+    height: 575px;
+}
+.people-list ul {
+    padding: 20px;
+    height: 770px;
+}
+.people-list ul li {
+    padding-bottom: 20px;
+}
+.people-list .about {
+    float: left;
+    margin-top: 8px;
+}
+.people-list .about {
+    padding-left: 8px;
+}
+
+.name{
+    font-size: 18px;
+}

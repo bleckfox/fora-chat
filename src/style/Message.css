@@ -1,0 +1,13 @@
+
+.chat .chat-history .my-message {
+    background: #86bb71;
+}
+
+.chat .chat-history .other-message {
+    background: #94c2ed;
+}
+
+.chat .chat-history .other-message:after {
+    border-bottom-color: #94c2ed;
+    left: 93%;
+}
