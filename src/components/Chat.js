@@ -19,7 +19,7 @@ function Chat ( { location } ) {
   const [users, setUsers] = useState('');
   const [message, setMessage] = useState('');
   const [messages, setMessages] = useState( [] );
-  const localhost = 'localhost:3030';
+  const localhost = 'localhost:5000';
 
 
   useEffect( () => {
